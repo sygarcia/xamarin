@@ -1,5 +1,5 @@
  {
-  "attendee": [
+  "attendees": [
     { "Id": 1, "Name": "Jok Garcia", "Course": "Xamarin Native", "Price": 350.50 },
     { "Id": 2, "Name": "Kabron James", "Course": "Xamarin.Forms", "Price": 450.50 },
     { "Id": 3, "Name": "Stefano Mori", "Course": "ASP.NET", "Price": 550.50 }

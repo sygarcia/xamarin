@@ -1,0 +1,14 @@
+ {
+  "attendee": [
+    { "Id": 1, "Name": "Jok Garcia", "Course": "Xamarin", "Price": 350.50 },
+    { "Id": 2, "Name": "Kabron James", "Course": "Xamarin", "Price": 350.50 },
+    { "Id": 3, "Name": "Stefano Mori", "Course": "ASP.NET", "Price": 550.50 }
+  ],
+  "comment": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+ }

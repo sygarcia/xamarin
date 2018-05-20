@@ -1,0 +1,14 @@
+{
+  "players": [
+    { "Id": 1, "Name": "LBJ", "Position": "SG", "Age": 34 },
+    { "Id": 2, "Name": "MJ", "Position": "PG", "Age": 23 },
+    { "Id": 3, "Name": "Steph", "Position": "C", "Age": 21 },
+  ],
+  "comment": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
